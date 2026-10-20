@@ -1,0 +1,18 @@
+{
+  "source_sha": "8c8c9663738b1ef50ef47a0d525f8b6b3553ff21",
+  "assets_sha256": {
+    "THIRD_PARTY_NOTICES": "192457bff2508eca6b3a9e4af8c97aacda6b52b67d31fe1c8ed9c98d20e46cc5",
+    "THIRD_PARTY_NOTICES.md": "ec7743b78f18a15df8de2ab97ba18e3057d19c7e242005546bd6cb160ec9cf1c",
+    "LICENSE": "c5687d0852d0c3621edfff6ac4b35c05db0cd4d6e162d4c7c6e1e87d87878f50",
+    "404.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "data/index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "colors/index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "assets/index-CLn-eNjs.css": "955e6f33813246ab577cd92f1781abedfff2e5cb91d642b1b030028d054c98e6",
+    "assets/index-D5PV7bjY.js": "3a44e005026717bdb5593f11d2b78830b77368244b0ff7656cd7a93b406420e4",
+    "ascii/index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "directory/index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318",
+    "terrahour/index.html": "15e85cb1c15c740441ec6e2bed8450614e5ba868d72a9671904b35ee01b69318"
+  },
+  "description": "Reviewed static production assets; no source workspace or personal artifacts."
+}

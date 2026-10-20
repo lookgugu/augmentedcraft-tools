@@ -1,0 +1,18 @@
+Third-Party Notices & Data Attributions
+=======================================
+
+1. TerraHour (Inspiration, Solar Math & Curated City Dataset)
+   Author: Alessio Coci
+   Copyright (c) 2026 Alessio Coci
+   License: MIT License
+   Details: See LICENSE and THIRD_PARTY_NOTICES.md for the full MIT license text.
+
+2. GeoNames
+   Source: https://www.geonames.org/
+   License: Creative Commons Attribution 4.0 (CC BY 4.0)
+   Usage: City coordinates and IANA timezone reference data.
+
+3. Natural Earth
+   Source: https://www.naturalearthdata.com/
+   License: Public Domain
+   Usage: Simplified continental land geometry for the offline world map.
